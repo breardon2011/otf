@@ -108,3 +108,5 @@ Session.vim
 .history
 # allow anything under testdata
 !**/testdata/**
+config.bat
+node_modules
